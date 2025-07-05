@@ -75,11 +75,11 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "QUEEN-SACHI~" + string_session;
+                        let md = "FIXO-XMD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*HEY WELCOME TO THE QUEEN SACHI MD BOT 👋🏼*
+                        let desc = `*HEY WELCOME TO THE FIXO XMD BOT 👋🏼*
 
-*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 𝙎𝘼𝘾𝙃𝙄-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
+*THANKS FOR USING 𝗙𝗜𝗫𝗢 𝗫𝗠𝗗" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
 
 *🧸 SESSION ID : SENT ABOVE*
 *🔐 DO NOT SHARE THIS ID WITH ANYONE...!*
@@ -94,7 +94,7 @@ var randomItem = selectRandomItem(items);
 *https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg*
 
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`; 
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜰɪxᴏ xᴅ 💥`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
