@@ -100,7 +100,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "🕊️ꜰɪxᴏ xᴅ💥",
-thumbnailUrl: "https://files.catbox.moe/jezqx4.jpg",
+thumbnailUrl: "https://files.catbox.moe/et3unf.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -133,7 +133,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "🕊️ꜰɪxᴏ xᴅ💥",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
+thumbnailUrl: "https://files.catbox.moe/et3unf.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I",
 mediaType: 2,
 renderLargerThumbnail: true,
