@@ -87,11 +87,11 @@ var randomItem = selectRandomItem(items);
 
 *📍BOT UPDATE :*
 *JOIN OFFCIAL WHATSAPP CHANNEL...🧚*
-*https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u*
+*https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I*
 
 *📍BOT UPDATE :*
 *JOIN OFFCIAL WHATSAPP GROUP...🧚*
-*https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg*
+*https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I*
 
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜰɪxᴏ xᴅ 💥`; 
@@ -99,9 +99,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "🕊️⃝ 𝓚 ɪɴɢ ʀᴀᴠɪ-ᴛᴇᴄʜ⟷💥",
+title: "🕊️ꜰɪxᴏ xᴅ💥",
 thumbnailUrl: "https://files.catbox.moe/jezqx4.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u",
+sourceUrl: "https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -110,9 +110,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*HEY WELCOME TO THE QUEEN SACHI MD BOT 👋🏼*
+                            let desc = `*HEY WELCOME TO THE FIXO XMD BOT 👋🏼*
 
-*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 𝙎𝘼𝘾𝙃𝙄-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
+*THANKS FOR USING 𝗙𝗜𝗫𝗢 𝗫𝗠𝗗" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
 
 *🧸 SESSION ID : SENT ABOVE*
 *🔐 DO NOT SHARE THIS ID WITH ANYONE...!*
@@ -120,21 +120,21 @@ renderLargerThumbnail: true
 
 *📍BOT UPDATE :*
 *JOIN OFFCIAL WHATSAPP CHANNEL...🧚*
-*https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u*
+*https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I*
 
 *📍BOT UPDATE :*
 *JOIN OFFCIAL WHATSAPP GROUP...🧚*
-*https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg*
+*https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I*
 
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜰɪxᴏ xᴅ💥`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "🕊️⃝ 𝓚 ɪɴɢ ʀᴀᴠɪ-ᴛᴇᴄʜ⟷💥",
+title: "🕊️ꜰɪxᴏ xᴅ💥",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u",
+sourceUrl: "https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
